@@ -26,7 +26,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 2. What metric would you report for this dataset?
 
 - Answer:
-  - **I would use more metrics for the report, such as Mean, Median, Mode, and top 5 most frequent order amount to report, because it can help us to make better strategies.**,
+  - **I would use a metrics with more data for the report, such as Mean, Median, Mode, and top 5 most frequent order amount to report, because it can help us to make better strategies.**
   - My metrics include:
   1. Mean for the dataset without data from shop(shop_id:78) and user(user_id:607), which is $302.58.
   2. The median of the dataset without data from shop(shop_id:78) and user(user_id:607), which is $284.00.
@@ -38,7 +38,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 3. What is its value?
 
 - Answer:
-  I have put some values in the answer for 2nd question, but in summarise. The values for my metric are:
+  I have put some values in the answer for 2nd question, but in summary. The values for my metric are:
 
   | Measure                        | Value               |
   | ------------------------------ | ------------------- |
