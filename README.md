@@ -10,7 +10,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
 - Answer:
 
-  - My first guess is that there are some outliers that makes the mean a biased value. One better way to evaluate is to move the outliers if there is any.
+  - My first guess is that there are some outliers that makes the AOV(mean) a biased value. One better way to evaluate is to move the outliers if there is any. Second guess is that there might be some inaccurate data, however, its hard to tell which data is inaccurate, so I am going to stick with my first guess.
 
   - I used Jupyter notebook to analyse the dataset, and I have found two outliers.(My codes are in shopify_YuanfengLi.ipynb)
 
