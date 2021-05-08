@@ -12,7 +12,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
   - My first guess is that there are some outliers that makes the mean a biased value. One better way to evaluate is to move the outliers if there is any.
 
-  - I used Jupyter notebook to analyse the dataset, and I have found two outliers.(My codes are in shopify_FV_YuanfengLi.ipynb)
+  - I used Jupyter notebook to analyse the dataset, and I have found two outliers.(My codes are in shopify_YuanfengLi.ipynb)
 
   1. The first outlier is a user:
      There is a user (user_id:607) who should be one of the outliers that we can remove. Because all the purchases of user_id:607 are 2000 items. And all of its order amount are $704000 which is way much higher than the rest of orders.
