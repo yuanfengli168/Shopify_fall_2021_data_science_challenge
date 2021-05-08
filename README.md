@@ -64,7 +64,7 @@ ON Orders.ShipperID = Shippers.ShipperID
 WHERE ShipperName = 'Speedy Express';
 ```
 
-- the numerical answer is: 54
+- Answer: 54
 
 2. What is the last name of the employee with the most orders?
 
@@ -78,7 +78,7 @@ LIMIT 1;
 
 ```
 
-- Last name: Peacock
+- Answer: Peacock
 
 3. What product was ordered the most by customers in Germany?
 
