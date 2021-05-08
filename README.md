@@ -64,7 +64,7 @@ ON Orders.ShipperID = Shippers.ShipperID
 WHERE ShipperName = 'Speedy Express';
 ```
 
-- Answer: 54
+- Answer: 54, There are 54 orders were shipped by Speedy Express in total.
 
 2. What is the last name of the employee with the most orders?
 
@@ -78,7 +78,7 @@ LIMIT 1;
 
 ```
 
-- Answer: Peacock
+- Answer: Peacock, the last name of the employee with the most orders is Peacock.
 
 3. What product was ordered the most by customers in Germany?
 
@@ -97,4 +97,4 @@ LIMIT 1;
 
 ```
 
-- Answer: Boston Crab Meat
+- Answer: Boston Crab Meat, Boston Crab Meat was ordered the most by customers in Germany.
