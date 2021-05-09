@@ -42,7 +42,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
   | Measure                        | Value               |
   | ------------------------------ | ------------------- |
-  | AOV                            | $302.58             |
+  | AOV (Mean)                      | $302.58             |
   | Median                         | $284.00             |
   | Mode                           | $153.00             |
   | 1st most frequent order amount | $153.00 (87 orders) |
